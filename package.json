@@ -1,0 +1,9 @@
+{
+  "name": "hello-atom",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-download-atom-shell": "^0.7.0"
+  }
+}
