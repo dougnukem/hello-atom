@@ -7,6 +7,10 @@ To run you should be able to do the following:
 
 `./run.sh`
 
+OR on Windows:
+
+`run`
+
 OR manually:
 
 Install grunt if you haven't already
@@ -27,4 +31,3 @@ Then you should be able to run the app:
 ```
 ./build/atom-shell/Atom.app/Contents/MacOS/Atom ./hello-app
 ```
-
